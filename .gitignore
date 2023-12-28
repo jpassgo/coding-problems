@@ -52,3 +52,10 @@ dist/
 *~
 __pycache__/
 
+
+# Git files
+HEAD
+config
+description
+hooks/
+info/
